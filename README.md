@@ -43,7 +43,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Задана ширина и высота" width="90" height="90"/> 
  <img src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" alt="Задана ширина и высота" width="90" height="90"/> 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Задана ширина и высота" width="90" height="90"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Задана ширина и высота" width="90" height="90"/>
+ <img src="https://habrastorage.org/webt/qk/gr/xv/qkgrxv1urjcgw57urzii6lymlhe.png" alt="Задана ширина и высота" width="90" height="90"/>
  </p>
  
 <hr>
@@ -95,3 +95,4 @@
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?krakanosh=willianrod)](https://github.com/anuraghazra/github-readme-stats)
