@@ -69,7 +69,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=krakanosh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?krakanosh=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?krakanosh=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
