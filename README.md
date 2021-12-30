@@ -13,7 +13,6 @@
          <a href="https://codepen.io/Krakanosh" title="CodePen"><img width="32" src="https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png"> CodePen</a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://www.instagram.com/krakanosh/" title="Instagram"><img width="32" src="https://tvoiprogrammy.ru/wp-content/uploads/2018/05/instagram-logo.png"> Instagram</a></code>&nbsp&nbsp&nbsp&nbsp
      </p>
-<br>
 <hr>
 <!-- <p align="center">
   Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
@@ -35,7 +34,7 @@
 </p> -->
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-
+<br>
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Задана ширина и высота" width="90" height="90"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Задана ширина и высота" width="90" height="90"/> 
@@ -43,7 +42,8 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Задана ширина и высота" width="90" height="90"/> 
  <img src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" alt="Задана ширина и высота" width="90" height="90"/> 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Задана ширина и высота" width="90" height="90"/>
- <img src="https://habrastorage.org/webt/qk/gr/xv/qkgrxv1urjcgw57urzii6lymlhe.png" alt="Задана ширина и высота" width="90" height="90"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Задана ширина и высота" width="90" height="90"/>
+ <br><br>
  </p>
  
 <hr>
@@ -69,16 +69,18 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=krakanosh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?krakanosh=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/krakanosh/FSIN" title="FSIN UDO"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/krakanosh/FSIN" title="FSIN UDO"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="FSIN UDO"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="23123"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -93,6 +95,11 @@
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?krakanosh=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/krakanosh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<!-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?krakanosh=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/krakanosh/FSIN)
+
