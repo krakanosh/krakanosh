@@ -9,8 +9,8 @@
 </h1>
     <p align="center">
         <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BB%D0%B8%D1%81%D0%B8%D0%BD-78405522a/" title="Instagram"><img width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>&nbsp&nbsp&nbsp&nbsp
-         <a href="https://stackoverflow.com/users/17795124/krakanosh" title="Stack Overflow"><img width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Zq6ttmu7W_cHMg2A_8Nu9qB-VC6gQlqqcQ&usqp=CAU"> Stack Overflow</a></code>&nbsp&nbsp&nbsp&nbsp
-         <a href="https://codepen.io/Krakanosh" title="CodePen"><img width="32" src="https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png"> CodePen</a></code>&nbsp&nbsp&nbsp&nbsp
+         <a href="https://stackoverflow.com/users/17795124/krakanosh" title="Stack Overflow"><img width="32" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"> Stack Overflow</a></code>&nbsp&nbsp&nbsp&nbsp
+         <a href="https://www.codewars.com/users/Krakanosh" title="CodeWars"><img width="32" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg"> CodeWars</a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://www.instagram.com/krakanosh/" title="Instagram"><img width="32" src="https://tvoiprogrammy.ru/wp-content/uploads/2018/05/instagram-logo.png"> Instagram</a></code>&nbsp&nbsp&nbsp&nbsp
      </p>
 <hr>
@@ -97,5 +97,3 @@
 <h4 align="center">
   <a href="https://github.com/krakanosh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> -->
-
-
