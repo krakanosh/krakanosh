@@ -10,7 +10,7 @@
     <p align="center">
         <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BB%D0%B8%D1%81%D0%B8%D0%BD-78405522a/" title="Instagram"><img width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://stackoverflow.com/users/17795124/krakanosh" title="Stack Overflow"><img width="32" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"> Stack Overflow</a></code>&nbsp&nbsp&nbsp&nbsp
-         <a href="https://www.codewars.com/users/Krakanosh" title="CodeWars"><img width="32" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg"> CodeWars</a></code>&nbsp&nbsp&nbsp&nbsp
+         <a href="https://www.codewars.com/users/Krakanosh" title="CodeWars"><img width="32" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2"> CodeWars</a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://www.instagram.com/krakanosh/" title="Instagram"><img width="32" src="https://tvoiprogrammy.ru/wp-content/uploads/2018/05/instagram-logo.png"> Instagram</a></code>&nbsp&nbsp&nbsp&nbsp
      </p>
 <hr>
