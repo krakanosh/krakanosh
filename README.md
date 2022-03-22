@@ -1,12 +1,12 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=krakanosh.krakanosh">
 
-<br>
+<!-- <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет+👋;Меня+зовут+Александр....;Приятно+познакомиться!&center=true&size=30">
   </a>
-</h1>
+</h1> -->
     <p align="center">
         <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BB%D0%B8%D1%81%D0%B8%D0%BD-78405522a/" title="Instagram"><img width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://stackoverflow.com/users/17795124/krakanosh" title="Stack Overflow"><img width="32" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a></code>&nbsp&nbsp&nbsp&nbsp
