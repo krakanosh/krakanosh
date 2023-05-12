@@ -15,18 +15,10 @@
      </p>
 <!-- <hr> -->
 <p align="center">
-  Hi, I'm Aleksandr, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Aleksandr, Computer Engineer & Software Developer from Russia
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build E-Commerce Website with Laravel
   <br>
   💬 Ask me anything about from <a href="mailto: LisinDev@protonmail.com">LisinDev@protonmail.com</a>
   <br>
