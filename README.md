@@ -16,7 +16,7 @@
      </p>
 <!-- <hr> -->
 <p align="center">
-  Hi, I'm Aleksandr, Computer Engineer & Software Developer from Russia
+  Hi, I'm Aleksandr, Full-Stack Developer from Russia
   <br>
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Laravel
