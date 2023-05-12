@@ -11,6 +11,7 @@
         <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BB%D0%B8%D1%81%D0%B8%D0%BD-78405522a/" title="Instagram"><img width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://stackoverflow.com/users/17795124/krakanosh" title="Stack Overflow"><img width="32" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://www.codewars.com/users/Krakanosh" title="CodeWars"><img width="32" src="https://docs.codewars.com/logo.svg"></a></code>&nbsp&nbsp&nbsp&nbsp
+         <a href="https://codepen.io/Krakanosh" title="CodePen"><img width="32" src="[https://tvoiprogrammy.ru/wp-content/uploads/2018/05/instagram-logo.png](https://e7.pngegg.com/pngimages/952/110/png-clipart-codepen-computer-icons-sass-fillings-miscellaneous-cdr.png)"></a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://www.instagram.com/krakanosh/" title="Instagram"><img width="32" src="https://tvoiprogrammy.ru/wp-content/uploads/2018/05/instagram-logo.png"></a></code>&nbsp&nbsp&nbsp&nbsp
      </p>
 <!-- <hr> -->
