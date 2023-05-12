@@ -20,7 +20,6 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Laravel
   <br>
-  💬 Ask me anything about from <a href="mailto: LisinDev@protonmail.com">LisinDev@protonmail.com</a>
   <br>
   📫 How to reach me: <a href="mailto: aleksandrlisin.dev@gmail.com">AleksandrLisin.dev@gmail.com</a>
 </p>
