@@ -1,4 +1,4 @@
-
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=krakanosh.krakanosh">
 
 <br>
@@ -14,7 +14,7 @@
          <a href="https://codepen.io/Krakanosh" title="CodePen"><img width="36" src="https://www.svgrepo.com/show/332289/codepen-circle.svg"></a></code>&nbsp&nbsp&nbsp&nbsp
          <a href="https://www.instagram.com/krakanosh/" title="Instagram"><img width="32" src="https://tvoiprogrammy.ru/wp-content/uploads/2018/05/instagram-logo.png"></a></code>&nbsp&nbsp&nbsp&nbsp
      </p>
-<!-- <hr> -->
+<!-- <hr> 
 <p align="center">
   Hi, I'm Aleksandr, Full-Stack Developer from Russia
   <br>
@@ -40,7 +40,7 @@
  </p>
  
 <hr>
-
+-->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
